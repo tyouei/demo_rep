@@ -1,0 +1,1 @@
+hello Gitgit config --local --list
